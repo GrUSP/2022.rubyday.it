@@ -1,0 +1,48 @@
+sponsors_block_title: "Thanks to our sponsors and partners"
+# main:
+#   sponsor1:
+#     name: ""
+#     logo_filename: ""
+#     site_url: ""
+# diamond:
+#   sponsor1:
+#     name: ""
+#     logo_filename: ""
+#     site_url: ""
+# platinum:
+#   sponsor1:
+#     name: ""
+#     logo_filename: ""
+#     site_url: ""
+gold:
+  sponsor1:
+    name: "Workwave"
+    logo_filename: "workwave.svg"
+    site_url: "https://www.workwave.com/"
+silver:
+  sponsor1:
+    name: "Seesaw"
+    logo_filename: "seesaw.svg"
+    site_url: "https://www.seesaw.it/"
+bronze:
+  sponsor1:
+    name: "Stickermule"
+    logo_filename: "stickermule.svg"
+    site_url: "https://mule.to/p1j5"
+#   sponsor2:
+#     name: ""
+#     logo_filename: ""
+#     site_url: ""
+#   sponsor3:
+#     name: ""
+#     logo_filename: ""
+#     site_url: ""
+# diversity:
+#   sponsor1:
+#     name: ""
+#     logo_filename: ""
+#     site_url: ""
+
+# Partner configuration
+partner_tags:
+  - ruby
